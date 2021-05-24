@@ -1,0 +1,14 @@
+{
+	"adsonlineconfig": {
+		"ADS_PRIORITY_NO_1": "ADMOB",
+		"ADS_PRIORITY_NO_2": "STARTAPP",
+		"ADS_PUB_ID": "pub-89666184356xxxxx",
+		"ADS_APP_ID": "ca-app-pub-4892656066028731~0145081072",
+		//Unit ID For Admob
+		"ADS_ADMOB_BANNER": "ca-app-pub-3940256099942544/6300978111",
+		"ADS_ADMOB_INTERSTITIALS": "ca-app-pub-3940256099942544/1033173712",
+		//AppId For StartApp
+		"ADS_STARTAPP_APPID": "208254038",
+		"ADS_MERGE" : 1
+	}
+}
