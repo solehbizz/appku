@@ -1,0 +1,98 @@
+{
+  "Ads": [
+      {
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/details?id=",
+      "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native": "ca-app-pub-3940256099942544/2247696110",
+      "startappid": "",
+      "select_ads": "ADMOB",
+      "select_backup_ads":"FACEBOOK",
+      "fan_inter": "YOUR_PLACEMENT_ID",
+      "fan_banner_native": "YOUR_PLACEMENT_ID",
+      "fan_native": "YOUR_PLACEMENT_ID",
+      "packagename": "com.fc.yisantes",
+      "interval":5
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Status & Meme",
+      "image":"https://play-lh.googleusercontent.com/hVVN6RQySStyj_ZYrgxGosDT4rDbIf1Yy7vAb5gYUFgoGvrfJWR0OrqlkCw5ES7bFMo=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.dramaindia.ishqmein"
+    },
+    {
+      "id":2,
+      "title":"Skin Legend",
+      "image":"https://play-lh.googleusercontent.com/Zjvjb_SqemKaUB_d02-tTtlyAkTclCPQ8kNKcMBOe3ZHZCeY1BJMpWFz8MgIzVik_gI=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.mlhero.mobile"
+    },
+    {
+      "id":3,
+      "title":"Song Joongki Call",
+      "image":"https://play-lh.googleusercontent.com/MXer8c_AOBToVGhbC5nYQkL0AuOctRWauAUFxb5eL7CuHkVv0IAv9M27_H41uWnsXgRD=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.songjoongki.fakecall"
+    },
+    {
+      "id":4,
+      "title":"Arya Saloka (Aldebaran)",
+      "image":"https://play-lh.googleusercontent.com/Ov6PO3CtcwUKrPUPLfmV2fSSTbMavK8oz0BcDZZ0NcEwYsJzMdihR4jj7UtkWq5G7Ro=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.aryasaloka.aldebaran"
+    },
+    {
+      "id":5,
+      "title":"Cha Eun Woo",
+      "image":"https://play-lh.googleusercontent.com/hJ_rKTtJLpqhQ3STLWUlzXUSH-oz_sRTwa0q1MbgWccoqPkqGzAyxT0VuZag9WQRzlzi=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.chaeunwoo.kpop"
+    }
+  ],
+  "Item":
+  [
+    {
+      "id":1,
+      "name":"Jungkook",
+      "image_url":"https://drive.google.com/uc?export=download&id=1N5Ap8I466k6V-DO5ZFKhl90Bs1atJvh_",
+      "video_url":"https://drive.google.com/uc?export=download&id=13noJKNMekt753dhVK3mYVvARoCN9ZbyI",
+      "voice_url":"jungkook1.mp3"
+    },
+    {
+      "id":2,
+      "name":"Jungkook",
+      "image_url":"https://drive.google.com/uc?export=download&id=18fNAOzh0LPU5GLWvahWnzBFw9DpRbuxc",
+      "video_url":"https://drive.google.com/uc?export=download&id=1EgoAHq4wnJZWNmIbxQuSwsmXIcyr3Bas",
+      "voice_url":"jungkook1.mp3"
+    },
+    {
+      "id":3,
+      "name":"Jungkook",
+      "image_url":"https://drive.google.com/uc?export=download&id=1vOcXmgGJ_A6TLvYjBekO8KNB9hmdON7G",
+      "video_url":"https://drive.google.com/uc?export=download&id=1fORSv_1K4cle8Awnsl_BkFV7TnVTre7x",
+      "voice_url":"jungkook1.mp3"
+    },
+    {
+      "id":4,
+      "name":"Jungkook",
+      "image_url":"https://drive.google.com/uc?export=download&id=1kOxCp18bbRriI_JGrPS-L5LdYPFK4K-1",
+      "video_url":"https://drive.google.com/uc?export=download&id=1mhH7zsK-QOKF4T_mdiBhgBPRlyKlxWHK",
+      "voice_url":"jungkook1.mp3"
+    },
+    {
+      "id":5,
+      "name":"Jungkook",
+      "image_url":"https://drive.google.com/uc?export=download&id=1MasaQTKcAypfSsQ9Lh2Qb0NUUbC915mN",
+      "video_url":"https://drive.google.com/uc?export=download&id=1YAzkj7WIiCFuxujz7nhqX0217MNug6a3",
+      "voice_url":"jungkook1.mp3"
+    },
+    {
+      "id":6,
+      "name":"Jungkook",
+      "image_url":"https://drive.google.com/uc?export=download&id=1N5Ap8I466k6V-DO5ZFKhl90Bs1atJvh_",
+      "video_url":"https://drive.google.com/uc?export=download&id=13noJKNMekt753dhVK3mYVvARoCN9ZbyI",
+      "voice_url":"jungkook1.mp3"
+    }
+  ]
+
+}
