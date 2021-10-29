@@ -1,13 +1,13 @@
 {
   "Ads": [
       {
-      "select_main_ads":"ADMOB",
-      "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner":"ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "native_for_admob":"ca-app-pub-3940256099942544/2247696110",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
+      "select_main_ads":"",
+      "select_backup_ads":"",
+      "main_ads_banner":"",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
       "interval_intertitial": 5,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
@@ -19,16 +19,6 @@
       "status_app": "0",
       "link_redirect": "https://"
       }
-   ],
-
-  "More":
-  [
-    {
-      "id":1,
-      "title":"Ludo King",
-      "image":"file:///android_asset/ludo.webp",
-      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
-    }
-  ]
+   ]
 
 }
