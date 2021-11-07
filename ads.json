@@ -1,19 +1,124 @@
 {
-	"adsonlineconfig": {
-		"ADS_PRIORITY_NO_1": "ADMOB",
-		"ADS_PRIORITY_NO_2": "STARTAPP",
-		"ADS_PRIORITY_NO_3": "ADS_FAN",
-		"ADS_APP_ID": "ca-app-pub-89666184xxxxxxx~xxxxxxxx",
-		"ADS_ADMOB_BANNER": "ca-app-pub-3940256099942544/6300978111",
-		"ADS_ADMOB_INTERSTITIALS": "ca-app-pub-3940256099942544/1033173712",
-		"ADS_ADMOB_NATIVE": "ca-app-pub-3940256099942544/2247696110",
-		"ADS_ADMOB_KEYWORDS": "health,education,insurance",
-		"MAX_ITEM_SHOW_LISTNATIVE": 2,
-		"ITEMS_PER_AD": 3,
-		"NATIVE_ADS_USE_BUTTON_ACTION": false,
-		"NATIVE_ADS_DIALOG_EXIT": false,
-		"ADS_STARTAPP_APPID": "208254038",
-		"ADS_FAN_BANNER": "YOUR_PLACEMENT_ID",
-		"ADS_FAN_INTERSTITIALS": "YOUR_PLACEMENT_ID"
-	}
+  "Ads": [
+      {
+       "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "native_for_admob":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+   
+   "More":
+  [
+    {
+      "id":1,
+      "title":"Jungkok",
+      "image":"https://play-lh.googleusercontent.com/0B64Cotq0LOOpYkWrQJYJDQv1EGzMua7p9oow0TZVdkOAO7tlGftG9-eyeUveHxuCpQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.jungkook.bts_jungkok"
+    },
+    {
+      "id":2,
+      "title":"Epex",
+      "image":"https://play-lh.googleusercontent.com/vxHZ3jhP1fTjKYeY4k6jXNFdhkfWZWvz5Q6SRyoulSoWs0bymlhCtaSmA2XE-AgKSCM=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.epex.kpop"
+    },
+    {
+      "id":3,
+      "title":"Song Joongki Call",
+      "image":"https://play-lh.googleusercontent.com/MXer8c_AOBToVGhbC5nYQkL0AuOctRWauAUFxb5eL7CuHkVv0IAv9M27_H41uWnsXgRD=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.songjoongki.fakecall"
+    },
+    {
+      "id":4,
+      "title":"Arya Saloka (Aldebaran)",
+      "image":"https://play-lh.googleusercontent.com/Ov6PO3CtcwUKrPUPLfmV2fSSTbMavK8oz0BcDZZ0NcEwYsJzMdihR4jj7UtkWq5G7Ro=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.aryasaloka.aldebaran"
+    },
+    {
+      "id":5,
+      "title":"Cha Eun Woo",
+      "image":"https://play-lh.googleusercontent.com/hJ_rKTtJLpqhQ3STLWUlzXUSH-oz_sRTwa0q1MbgWccoqPkqGzAyxT0VuZag9WQRzlzi=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.chaeunwoo.kpop"
+    }
+  ],
+  
+  "Item":
+  [
+    {
+      "id":1,
+      "name":"Godzilla",
+      "image_url":"file:///android_asset/g1.jpg",
+      "video_url":"v1",
+      "voice_url":"a1.mp3"
+    },
+    {
+      "id":2,
+      "name":"Godzilla",
+      "image_url":"file:///android_asset/g2.jpg",
+      "video_url":"v1",
+      "voice_url":"a1.mp3"
+    },
+    {
+      "id":3,
+      "name":"Godzilla",
+      "image_url":"file:///android_asset/g3.jpg",
+      "video_url":"v1",
+      "voice_url":"a1.mp3"
+    },
+    {
+      "id":4,
+      "name":"Godzilla",
+      "image_url":"file:///android_asset/g4.jpg",
+      "video_url":"v1",
+      "voice_url":"a1.mp3"
+    },
+    {
+      "id":5,
+      "name":"Godzilla",
+      "image_url":"file:///android_asset/g5.jpg",
+      "video_url":"v1",
+      "voice_url":"a1.mp3"
+    },
+    {
+      "id":6,
+      "name":"Godzilla",
+      "image_url":"file:///android_asset/g6.jpg",
+      "video_url":"v1",
+      "voice_url":"a1.mp3"
+    },
+    {
+      "id":7,
+      "name":"Godzilla",
+      "image_url":"file:///android_asset/g7.jpg",
+      "video_url":"v1",
+      "voice_url":"a1.mp3"
+    },
+    {
+      "id":8,
+      "name":"Godzilla",
+      "image_url":"file:///android_asset/g8.jpg",
+      "video_url":"v1",
+      "voice_url":"a1.mp3"
+    },
+    {
+      "id":9,
+      "name":"Godzilla",
+      "image_url":"file:///android_asset/g9.jpg",
+      "video_url":"v2",
+      "voice_url":"a1.mp3"
+    }
+  ]
 }
