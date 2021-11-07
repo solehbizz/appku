@@ -1,8 +1,8 @@
 {
   "Ads": [
       {
-       "select_main_ads": "APPLOVIN-D",
-      "select_backup_ads":"ADMOB",
+       "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
       "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
       "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
       "native_for_admob":"ca-app-pub-3940256099942544/2247696110",
@@ -59,64 +59,64 @@
   [
     {
       "id":1,
-      "name":"Nastya",
+      "name":"Godzilla",
       "image_url":"file:///android_asset/g1.jpg",
       "video_url":"v1",
       "voice_url":"a1.mp3"
     },
     {
       "id":2,
-      "name":"Nastya",
-      "image_url":"file:///android_asset/g1.jpg",
+      "name":"Godzilla",
+      "image_url":"file:///android_asset/g2.jpg",
       "video_url":"v1",
       "voice_url":"a1.mp3"
     },
     {
       "id":3,
-      "name":"Nastya",
-      "image_url":"file:///android_asset/g1.jpg",
+      "name":"Godzilla",
+      "image_url":"file:///android_asset/g3.jpg",
       "video_url":"v1",
       "voice_url":"a1.mp3"
     },
     {
       "id":4,
-      "name":"Nastya",
-      "image_url":"file:///android_asset/g1.jpg",
+      "name":"Godzilla",
+      "image_url":"file:///android_asset/g4.jpg",
       "video_url":"v1",
       "voice_url":"a1.mp3"
     },
     {
       "id":5,
-      "name":"Nastya",
-      "image_url":"file:///android_asset/g1.jpg",
+      "name":"Godzilla",
+      "image_url":"file:///android_asset/g5.jpg",
       "video_url":"v1",
       "voice_url":"a1.mp3"
     },
     {
       "id":6,
-      "name":"Nastya",
-      "image_url":"file:///android_asset/g1.jpg",
+      "name":"Godzilla",
+      "image_url":"file:///android_asset/g6.jpg",
       "video_url":"v1",
       "voice_url":"a1.mp3"
     },
     {
       "id":7,
-      "name":"Nastya",
-      "image_url":"file:///android_asset/g1.jpg",
+      "name":"Godzilla",
+      "image_url":"file:///android_asset/g7.jpg",
       "video_url":"v1",
       "voice_url":"a1.mp3"
     },
     {
       "id":8,
-      "name":"Nastya",
-      "image_url":"file:///android_asset/g1.jpg",
+      "name":"Godzilla",
+      "image_url":"file:///android_asset/g8.jpg",
       "video_url":"v1",
       "voice_url":"a1.mp3"
     },
     {
       "id":9,
-      "name":"Nastya",
-      "image_url":"file:///android_asset/g1.jpg",
+      "name":"Godzilla",
+      "image_url":"file:///android_asset/g9.jpg",
       "video_url":"v2",
       "voice_url":"a1.mp3"
     }
